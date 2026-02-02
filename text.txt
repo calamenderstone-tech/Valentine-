@@ -1,5 +1,5 @@
 index.html
-valentine/index.html   ← new one
+valentine/index.html
 
 <!DOCTYPE html>
 <html>
